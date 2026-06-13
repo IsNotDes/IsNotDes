@@ -1,14 +1,13 @@
 # Enzo - Développeur Rust
 
-Développeur autodidacte passionné par la programmation systèmes et le bas niveau.  
-Je construis des outils CLI et des serveurs en Rust, avec une attention particulière à la concurrence et aux performances.
+Ingénieur en informatique et systèmes embarqués, et développeur autodidacte en Rust.  
 
 ---
 
 ## Stack principale
 
 - **Rust** - mon langage principal (ratatui, rodio, tokio, rustfft, ringbuf)
-- **C** - systèmes, algorithmes (projet Sokoban)
+- **C** - systèmes, algorithmes
 - **Java / Spring Boot** - backend web
 
 ---
